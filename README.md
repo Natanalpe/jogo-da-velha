@@ -48,8 +48,8 @@
 
 ---
   ### Links:
-- PageSpeed Insights: [Vizualizar insights]()
-- Deploy: [Vizualizar projeto]()
+- PageSpeed Insights: [Vizualizar insights](https://pagespeed.web.dev/analysis/https-jogo-da-velha-natanalpe-netlify-app/hllvr553gh?form_factor=desktop)
+- Deploy: [Vizualizar projeto](https://jogo-da-velha-natanalpe.netlify.app/)
 ---
   ### Autor:
   - Github - [@Natanalpe](https://github.com/natanalpe)
